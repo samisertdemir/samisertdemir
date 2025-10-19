@@ -101,7 +101,8 @@
       
 ---
 
- <div align="center">
+<div align="center">
+  
 ### 💭 Günün Sözü
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
