@@ -111,12 +111,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=samisertdemir&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="samisertdemir" />
 
-### 🐍 Katkı Grafiği
-
-![Snake animation](https://github.com/samisertdemir/samisertdemir/blob/output/github-contribution-grid-snake-dark.svg)
-
+### 📈 Katkı Aktivitesi
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samisertdemir&custom_title=Sami's%20Contribution%20Graph&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" />
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
