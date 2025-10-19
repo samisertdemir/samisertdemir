@@ -66,11 +66,11 @@ Araçlar & Platformlar<br>
 🎯 Problem çözme becerilerimi geliştiriyorum
 
 📫 Benimle İletişime Geçin
-<div>
-![Instagram](https://instagram.com/sami.sertdemir)<br>
-![GitHub][(https://github.com/samisertdemir)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)<br>
-![Email][(mailto:samisertdemir@venosastudio.com)](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
-</div>
+
+![(https://instagram.com/sami.sertdemir)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)<br>
+![(https://github.com/samisertdemir)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)<br>
+![(mailto:samisertdemir@venosastudio.com)](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
+
 
 🎯 2025 Hedeflerim
 
