@@ -7,12 +7,12 @@
 🚀 Hakkımda
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-📍 Konum: Türkiye 🇹🇷
-🎓 Eğitim: Hacettepe Üniversitesi - Bilgisayar Programcılığı (Mezun)
-👨‍💻 Odak: Web Development, Full Stack Development, Open Source
-🌱 Öğreniyor: React, Node.js, Advanced JavaScript, System Design
-💡 İlgi Alanları: Coding, Technology, Innovation
-⚡ Motto: Code, Learn, Improve, Repeat 🔄
+📍 Konum: Türkiye 🇹🇷<br>
+🎓 Eğitim: Hacettepe Üniversitesi - Bilgisayar Programcılığı (Mezun)<br>
+👨‍💻 Odak: Web Development, Full Stack Development, Open Source<br>
+🌱 Öğreniyor: React, Node.js, Advanced JavaScript, System Design<br>
+💡 İlgi Alanları: Coding, Technology, Innovation<br>
+⚡ Motto: Code, Learn, Improve, Repeat 🔄<br>
 
 
 💻 Teknoloji Yığınım
