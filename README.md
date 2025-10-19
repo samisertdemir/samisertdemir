@@ -67,9 +67,9 @@ Araçlar & Platformlar<br>
 
 📫 Benimle İletişime Geçin
 
-![Instagram](https://instagram.com/sami.sertdemir)
-![GitHub][(https://github.com/samisertdemir)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Email][(mailto:samisertdemir@venosastudio.com)](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Instagram](https://instagram.com/sami.sertdemir)<br>
+![GitHub][(https://github.com/samisertdemir)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)<br>
+![Email][(mailto:samisertdemir@venosastudio.com)](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)<br>
 
 
 🎯 2025 Hedeflerim
