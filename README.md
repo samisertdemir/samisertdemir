@@ -5,7 +5,7 @@
 </div>
 
 🚀 Hakkımda
-const sami = {
+
     location: "Turkey 🇹🇷",
     education: "Hacettepe University - Computer Programming (Graduate)",
     age: 20,
@@ -13,7 +13,7 @@ const sami = {
     learning: ["React", "Node.js", "Advanced JavaScript", "System Design"],
     interests: ["Coding", "Technology", "Innovation"],
     motto: "Code, Learn, Improve, Repeat 🔄"
-};
+
 
 💻 Teknoloji Yığınım
 
