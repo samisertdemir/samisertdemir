@@ -6,13 +6,13 @@
 
 🚀 Hakkımda
 
-    location: "Turkey 🇹🇷",
-    education: "Hacettepe University - Computer Programming (Graduate)",
-    age: 20,
-    currentFocus: ["Web Development", "Full Stack Development", "Open Source"],
-    learning: ["React", "Node.js", "Advanced JavaScript", "System Design"],
-    interests: ["Coding", "Technology", "Innovation"],
-    motto: "Code, Learn, Improve, Repeat 🔄"
+location: "Turkey 🇹🇷",
+education: "Hacettepe University - Computer Programming (Graduate)",
+age: 20,
+currentFocus: ["Web Development", "Full Stack Development", "Open Source"],
+learning: ["React", "Node.js", "Advanced JavaScript", "System Design"],
+interests: ["Coding", "Technology", "Innovation"],
+motto: "Code, Learn, Improve, Repeat 🔄"
 
 
 💻 Teknoloji Yığınım
