@@ -1,16 +1,16 @@
 <div align="center">
 👋 Merhaba, Ben Sami Sertdemir
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Full+Stack+Developer;Problem+%C3%87%C3%B6z%C3%BCc%C3%BC+%26+%C3%96%C4%9Frenen" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+Mezunu;Full+Stack+Developer;Problem+%C3%87%C3%B6z%C3%BCc%C3%BC+%26+%C3%96%C4%9Frenen" alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 🚀 Hakkımda
 const sami = {
     location: "Turkey 🇹🇷",
-    education: "Hacettepe University - Computer Engineering",
+    education: "Hacettepe University - Computer Programming (Graduate)",
     age: 20,
-    currentFocus: ["Web Development", "AI/ML", "Open Source"],
-    learning: ["React", "Node.js", "Python", "System Design"],
+    currentFocus: ["Web Development", "Full Stack Development", "Open Source"],
+    learning: ["React", "Node.js", "Advanced JavaScript", "System Design"],
     interests: ["Coding", "Technology", "Innovation"],
     motto: "Code, Learn, Improve, Repeat 🔄"
 };
@@ -57,9 +57,10 @@ Show Image
 Show Image
 Show Image
 </div>
+
 💡 Şu Anda Neler Yapıyorum?
 
-🎓 Hacettepe Üniversitesi'nde bilgisayar mühendisliği okuyorum
+🎓 Hacettepe Üniversitesi Bilgisayar Programcılığı mezunuyum
 💻 Full-stack web geliştirme üzerinde çalışıyorum
 🌱 React, Node.js ve modern web teknolojilerini öğreniyorum
 🤝 Open-source projelerde işbirliği yapmaya açığım
@@ -71,6 +72,7 @@ Show Image
 Show Image
 Show Image
 </div>
+
 🎯 2025 Hedeflerim
 
  100+ GitHub contributions yapmak
