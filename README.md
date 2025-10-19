@@ -1,5 +1,5 @@
 <div align="center">
-👋 Merhaba, Ben Sami Sertdemir
+<h1>👋 Merhaba, Ben Sami Sertdemir</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+Mezunu;Full+Stack+Developer;Problem+%C3%87%C3%B6z%C3%BCc%C3%BC+%26+%C3%96%C4%9Frenen" alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
