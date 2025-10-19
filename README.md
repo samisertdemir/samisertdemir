@@ -45,21 +45,6 @@
 
 </div>
 
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samisertdemir&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samisertdemir&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samisertdemir&theme=radical" alt="samisertdemir" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samisertdemir&theme=react-dark&hide_border=true&area=true" width="100%">
-</div>
-
 ## 🏆 GitHub Başarılarım
 
 <div align="center">
@@ -110,10 +95,3 @@
 ### 👀 Profil Görüntülenme
 
 <img src="https://komarev.com/ghpvc/?username=samisertdemir&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="samisertdemir" />
-
-### 📈 Katkı Aktivitesi
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samisertdemir&custom_title=Sami's%20Contribution%20Graph&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
