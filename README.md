@@ -1,26 +1,33 @@
 <div align="center">
-  
-# 👋 Merhaba, Ben Sami Sertdemir
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+Mezunu;Full+Stack+Developer;Problem+%C3%87%C3%B6z%C3%BCc%C3%BC+%26+%C3%96%C4%9Frenen" alt="Typing SVG" />
+<!-- Organization Logo Section -->
+<img src="https://avatars.githubusercontent.com/u/78684520?s=200&v=4" alt="Organization Logo" width="200"/>
+<!-- Alternative: Use organization's GitHub avatar -->
+<!-- <img src="https://github.com/ORGANIZATION_NAME.png" alt="Organization Logo" width="200"/> -->
+
+<br><br>
+  
+# 👋 Hello, I'm Sami Sertdemir
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Computer+Programming+Graduate;Full+Stack+Developer;Problem+Solver+%26+Learner" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 📍 **Konum:** Türkiye 🇹🇷
-- 🎓 **Eğitim:** Hacettepe Üniversitesi - Bilgisayar Programcılığı (Mezun)
-- 👨‍💻 **Odak:** Web Development, Full Stack Development, Open Source
-- 🌱 **Öğreniyor:** React, Node.js, Advanced JavaScript, System Design
-- 💡 **İlgi Alanları:** Coding, Technology, Innovation
+- 📍 **Location:** Turkey 🇹🇷
+- 🎓 **Education:** Hacettepe University - Computer Programming (Graduate)
+- 👨‍💻 **Focus:** Web Development, Full Stack Development, Open Source
+- 🌱 **Learning:** React, Node.js, Advanced JavaScript, System Design
+- 💡 **Interests:** Coding, Technology, Innovation
 - ⚡ **Motto:** Code, Learn, Improve, Repeat 🔄
 
 
-## 💻 Teknoloji Yığınım
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -37,7 +44,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Araçlar & Platformlar
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -45,13 +52,13 @@
 
 </div>
 
-## 🏆 GitHub Başarılarım
+## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samisertdemir&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
-## 🔥 Aktif Projelerim
+## 🔥 Active Projects
 
 <div align="center">
 
@@ -60,38 +67,46 @@
 
 </div>
 
-## 💡 Şu Anda Neler Yapıyorum?
+## 💡 What I'm Currently Doing
 
-- 🎓 Hacettepe Üniversitesi Bilgisayar Programcılığı mezunuyum
-- 💻 Full-stack web geliştirme üzerinde çalışıyorum
-- 🌱 React, Node.js ve modern web teknolojilerini öğreniyorum
-- 🤝 Open-source projelerde işbirliği yapmaya açığım
-- 🎯 Problem çözme becerilerimi geliştiriyorum
+- 🎓 Graduate of Hacettepe University Computer Programming
+- 💻 Working on full-stack web development
+- 🌱 Learning React, Node.js and modern web technologies
+- 🤝 Open to collaborating on open-source projects
+- 🎯 Improving my problem-solving skills
 
-📫 Benimle İletişime Geçin
+## 📫 Connect With Me
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sami.sertdemir)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samisertdemir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufsamisertdemir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusuf23sertdemir@gmail.com)
 
+</div>
 
-## 🎯 2025 Hedeflerim
+## 🎯 2025 Goals
 
-- [ ] 100+ GitHub contributions yapmak
-- [ ] 3 büyük proje tamamlamak
-- [ ] Open-source topluluğuna katkıda bulunmak
-- [ ] Yeni teknolojiler öğrenmek (Docker, Kubernetes)
-- [ ] Teknik blog yazmaya başlamak
+- [ ] Make 100+ GitHub contributions
+- [ ] Complete 3 major projects
+- [ ] Contribute to open-source community
+- [ ] Learn new technologies (Docker, Kubernetes)
+- [ ] Start writing technical blog posts
       
 ---
 
 <div align="center">
   
-### 💭 Günün Sözü
+### 💭 Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-### 👀 Profil Görüntülenme
+### 👀 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=samisertdemir&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="samisertdemir" />
+
+### ⚡ Fun Fact
+**"First, solve the problem. Then, write the code."** - John Johnson
+
+</div>
