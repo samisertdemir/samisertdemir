@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Organization Logo Section -->
-<img src="https://avatars.githubusercontent.com/u/78684520?s=200&v=4" alt="Organization Logo" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/78684520?s=200&v=4](https://cdn.discordapp.com/attachments/1037336975398674462/1412927549524283454/VenosaStudioLogo.png?ex=68f76092&is=68f60f12&hm=63ac09bb2d438658ef2c4791b5edbdb202464b2e77e1e7b9ef73c3ff419b6619&" alt="Organization Logo" width="200"/>
 <!-- Alternative: Use organization's GitHub avatar -->
 <!-- <img src="https://github.com/ORGANIZATION_NAME.png" alt="Organization Logo" width="200"/> -->
 
